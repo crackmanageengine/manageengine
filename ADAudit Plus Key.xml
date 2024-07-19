@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="ADAudit Plus Demo" EmailID="crackmanageengine@gmail.com" ExpiryDate="2024-12-31" Key="nJbGSnDTGRbp9NS3GAPDufRRpy7T9fJTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybKcfRAy7RPzGRPXATxlndP7uNTddJx9xNKcdpSxANDfKcPXKRcAdVS7edbc" LicenseType="Registered" Name="ADAudit Plus Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="AdventNet ManageEngine ADAudit Plus" Type="Professional" Version="4.0.0"/>
+      <Component Name="Domains">
+         <Properties Name="NumberOfDomains" Value="200"/>
+      </Component>
+      <Component Name="DomainController">
+         <Properties Name="NumberOfDomainControllers" Value="50"/>
+      </Component>
+      <Component Name="MemberServer">
+         <Properties Name="NumberOfMemberServers" Value="100"/>
+      </Component>
+      <Component Name="FileServer">
+         <Properties Name="NumberOfFileServers" Value="20"/>
+      </Component>
+      <Component Name="CIFSServer">
+         <Properties Name="NumberOfCIFSServers" Value="50"/>
+      </Component>
+      <Component Name="WorkStation">
+         <Properties Name="NumberOfWorkStations" Value="100"/>
+      </Component>
+      <Component Name="CloudDirectory">
+         <Properties Name="NumberOfCloudDirectory" Value="50"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>05kRj4YvR8dGKjLPFORvQmKnkRj4YvR8dGKjLP001sNj84X4oyRjaFORvQmKnNj84X4oyRja05sRv3RvoofjPFORvQmKnRv3RvoofjP0WsRv3RvovL8fFORvQmKnRv3RvovL8f001sRv3RvoRvQmvMFORvQmKnRv3RvoRvQmvM05sRvLLjR4NjPN8XmjdFORvQmKnRvLLjR4NjPN8Xmjd00WsN8XmjdFORvQmKnsN8XmjdGRXGNX4oLXNj8ssvFjRp0I0ITsKLps48GKAdAsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="ADManager Plus Demo" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-01-01" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TxfJQdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybKcfRGVQTSzdpbp91bQJRpXG1b9nP77yRxcfpG7xbTpf1Q39bxQndayuuDdfVXTGzlp" LicenseType="Registered" Name="ADManager Plus Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="AdventNet ManageEngine ADManager Plus" Type="Enterprise" Version="4.1.2"/>
+      <Component Name="Domains">
+         <Properties Name="NumberOfDomains" Value="100"/>
+      </Component>
+      <Component Name="ADReports">
+         <Properties Name="NumberOfObjects" Value="100"/>
+      </Component>
+      <Component Name="ADMgmt">
+         <Properties Name="NumberOfUsers" Value="100"/>
+      </Component>
+      <Component Name="ADDelegation">
+         <Properties Name="NumberOfRoles" Value="100"/>
+         <Properties Name="NumberOfDelegation" Value="100"/>
+      </Component>
+      <Component Name="HelpDeskUsers">
+         <Properties Name="NumberOfUsers" Value="100"/>
+      </Component>
+      <Component Name="SelfService">
+         <Properties Name="SelfService" Value="true"/>
+      </Component>
+      <Component Name="Scheduler">
+         <Properties Name="NumberOfSchedulers" Value="100"/>
+         <Properties Name="Scheduler" Value="true"/>
+      </Component>
+      <Component Name="Workflow">
+         <Properties Name="Workflow" Value="true"/>
+         <Properties Name="NumberOfRequesters" Value="100"/>
+         <Properties Name="NumberOfReviewers" Value="100"/>
+         <Properties Name="WorkflowRequester" Value="true"/>
+      </Component>
+	  <Component Name="EnterpriseEssential">
+         <Properties Name="RiskAssessment" Value="true"/>
+         <Properties Name="AccessCertification" Value="true"/>
+         <Properties Name="LoadBalancer" Value="true"/>
+      </Component>
+      <Component Name="Migration">
+         <Properties Name="ADMigration" Value="true"/>
+         <Properties Name="NumberOfUsers" Value="100"/>
+      </Component>
+      <Component Name="Automation">
+         <Properties Name="NumberOfAdditionalAutomation" Value="100"/>
+         <Properties Name="Automation" Value="true"/>
+      </Component>
+      <Component Name="FileServer">
+         <Properties Name="NumberOfFileServers" Value="100"/>
+         <Properties Name="FileServer" Value="true"/>
+      </Component>
+      <Component Name="GPO">
+         <Properties Name="GPO" Value="true"/>
+      </Component>
+      <Component Name="TemplateCustomization">
+         <Properties Name="TemplateCustomization" Value="true"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>vKR4Nj84X98mj4sKPv4XLHmvtNj84X98mj4sKPv4XLHmvtvKR4OpDOpDvKR4Rv3RvovL8f001sRv3RvovL8fFORvQmKnRv3RvovL8fvKR4Nj84Xmj4KA001Nj84Xmj4KALXNj848GGAFORvQmKnNj84Xmj4KA001sRvswFORvQmKnvKR4Nj84XRi8MdANj84XRi8MvKR4RvYNXLXbGXjlvKR4Nj84XY8F84RvPssvYYAvKR44NvmssvssAys8rLX84Nvssgvs8RHRv4NgvKR4Rv4svKqvrvjLFyRja001sRvvv83vrFORvQmKn001sRv4svKqvrFORvQmKnvKR4vjLFyRjavjLFyRjavKR4RvLKGvCYo001sRvLKGvCYoFORvQmKnRvLKGvCYovKR4vY83RvoFLvovY83RvoFLvo001sRvswFORvQmKnsRvswysvdHLvh001Nj84XivLvdFORvQmKn001svLjrFORvQmKnNj84XivLvddA001sRvswFORvQmKn4miMdA001s4YvJQOFORvQmKns4RjHvrdA001sN8XmjdFORvQmKnsN8XmjdGRXGNX4ovs8RHRv4NgWI1ITsKLpsRviXNXMdAsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>

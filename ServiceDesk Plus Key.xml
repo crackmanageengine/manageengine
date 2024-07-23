@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="ServiceDesk Plus Demo" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-01-01" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TxfJQdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblZnPJDGnxPnPS3f1bPndz9zSbTndS3fblKfVJXf1TDdpxGK1bp9cV7zyDTnVxxAblpd1zGxPJV" LicenseType="Registered" Name="ServiceDesk Plus Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="AdventNet ManageEngine ServiceDesk Plus" Type="Enterprise" Version="4.0.0"/>
+      <Component Name="ServiceDesk">
+         <Properties Name="NoOfUsers" Value="50"/>
+         <Properties Name="NoOfDevices" Value="200"/>
+         <Properties Name="LocalizedSDP" Value="true"/>
+         <Properties Name="SDP_Robo" Value="true"/>
+         <Properties Name="Project_Management" Value="true"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="66666666"/>
+         <Properties Name="LicenseID" Value="99999999"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpZZZZZZZZdjvsNvY8l66666666djRvmj4sKPsL8X4vdvsNvY8lvKR44NvmviXNXM74YvJjRpvKR4jQjr7pdovKR4pdoGv98LXYjl00WsvY83vdFOjn05sRvswFOjnysvdvY83RvoMgOvs8RHRv4Ng0I0ITsKLpsysvdvY83RvosvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>

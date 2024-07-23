@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <Users>
+	  <!--Information-->
+	  <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+      <UserInfo ACNTRL="NO" CompanyName="ServiceDesk Plus - MSP Demo" EmailID="crackmanageengine@gmail.com " ExpiryDate="2025-01-31" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TxfJTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblTdNbp9fPzlpbGuNTTZpPXATxlndPVK1addNz3GPD7dVVGKyb7nJR7SRDpndSSAabfKcPXKlJAJyQpAya99c77KbP7" LicenseType="Registered" Name="ServiceDesk Plus - MSP Demo" UnlockFeatures="Full">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="AdventNet ManageEngine ServiceDesk Plus - MSP" Type="MSPEnterprise" Version="13.0.0"/>
+      <Component Name="ServiceDesk">
+         <Properties Name="NoOfUsers" Value="500"/>
+         <Properties Name="NoOfDevices" Value="500"/>
+         <Properties Name="LocalizedSDP" Value="true"/>
+         <Properties Name="SDP_Robo" Value="true"/>
+         <Properties Name="Fos" Value="true"/>
+         <Properties Name="CTI" Value="true"/>
+         <Properties Name="ZohoAssist" Value="true"/>
+      </Component>
+	  <Component Name="AMS">
+		<Properties Name="Expiry" Value="2025-01-31"/>
+	  </Component>
+	  <Component Name="LicenseDetails">
+		<Properties Name="GenerationDate" Value="2023-12-23"/>
+         <Properties Name="CustomerID" Value="6789-6789"/>
+         <Properties Name="LicenseID" Value="6789-6789"/>
+		 <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+		 <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpZEi6UZEi6djvsNvY8lZEi6UZEi6djRvmj4sKPVWUW1UVW0Wv4XdNj84XRvNvDsL8X4vdvsNvY8l1VU10U5W0WkR8H2goMAvKR44s8ssAjCjuvKR4jtPvKR4sjfvKR4jQjr7pdovKR4pdoGv98LXYjl005svY83vdFOjn005sRvswFOjnysvdvY83RvoMgOvs8RHRv4NgpoM0I0IV1poMsUssKLpsysvdvY83RvosvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>

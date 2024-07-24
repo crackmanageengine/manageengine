@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName=" Office365 Manager Plus " EmailID=" crackmanageengine@gmail.com " ExpiryDate="2025-02-28" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7T9ncSdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTdndPyeRSG3cfXfVR7GVPya7xnlcyXfyTTncG971bTfP37SPTpffbDGucVfpG7xbTpf1Q39bxQndaTQzlp" LicenseType="Registered" Name="Office365 Manager Plus">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="ManageEngine Office365 Manager Plus" Type="Professional" Version="4.2.0"/>
+      <Component Name="Users">
+         <Properties Name="NumberOfUsers" Value="300"/>
+      </Component>
+      <Component Name="HelpDeskUsers">
+         <Properties Name="NumberOfUsers" Value="300"/>
+      </Component>
+      <Component Name="O365BackupAddon">
+         <Properties Name="NumberOfMailboxes" Value="300"/>
+      </Component>
+	  <Component Name="AMS">
+		    <Properties Name="Expiry" Value="2025-02-28"/>
+	    </Component>
+		<Component Name="LicenseDetails">
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+         <Properties Name="GenerationDate" Value="2024-01-01"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>10U10UTW0Wv4XdNj84XRvNvDGvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpsL8X4vdvsNvY8lEWUW0U5W0WkR8H2goMA00Vsv2jQL8XMFORvQmKnNjGGAHKyYXb56VO00VsRvswFORvQmKnsRvswysvdHLvh00VsRvswFORvQmKnsRvswMgOLXNj8ssvFjRp0IWITsKLpsRviXNXMs56VvY8FFOsvN8iNgviXNXMdjdj</LicenseKey>
+</License>

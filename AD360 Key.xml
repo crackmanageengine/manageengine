@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><MELicense>
+    <AdventNetLicense name="ManageEngine AD360">
+        <!--Information-->
+	    <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+        <Users>
+            <UserInfo ACNTRL="NO" CompanyName="AD360 User" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-02-01" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7T9fJQdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybKcfRlDffDTnNPXfyS9u9bDGucQndKX9PJz" LicenseType="Registered" Name="AD360 User" UnlockFeatures="Full">
+                <ID>ID</ID>
+            </UserInfo>
+        </Users>
+        <LicenseeDetails ID="ID">
+            <Product Category="Standard" Name="ManageEngine AD360" Type="Professional" Version="4.0"/>
+            <Component Name="AD Management"/>
+            <Component Name="AD Auditing"/>
+            <Component Name="Exchange Auditing"/>
+            <Component Name="Password SelfService"/>
+			<Component Name="LicenseDetails">
+				 <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+				 <Properties Name="licenseusertype" Value="Registered"/>
+				 <Properties Name="GenerationDate" Value="2024-01-01"/>
+			</Component>
+        </LicenseeDetails>
+        <LicenseKey>10U10UTW0Wv4XdNj84XRvNvDGvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpsL8X4vdvsNvY8lvY83RvoFLvosGRjvssXpiN848GKAsviNXCY2giN848GKAsdA4NvmviXNXMsdAGRXGNX4oLXNj8ssvFjRp0IT06VdAsvN8iNgviXNXMdjdj</LicenseKey>
+    </AdventNetLicense>
+</MELicense>

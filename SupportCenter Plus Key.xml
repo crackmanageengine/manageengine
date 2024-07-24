@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="SupportCenter Plus Demo" EmailID=" crackmanageengine@gmail.com" ExpiryDate="2025-02-01" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7T9fJQdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTddNpyQSDKKuapANSnGRbp91bQJRpXG1b9nP77yNKTncz39baDnRXGKPly9cPGzyDTnVxxAblpd1aGxPJV" LicenseType="Registered" Name="SupportCenter Plus Demo" UnlockFeatures="Full">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="AdventNet ManageEngine SupportCenter Plus" Type="Enterprise" Version="5.0"/>
+      <Component Name="SupportCenter">
+         <Properties Name="NoOfUsers" Value="500"/>
+         <Properties Name="NoOfAccounts" Value="500"/>
+         <Properties Name="LocalizedSCP" Value="true"/>
+         <Properties Name="NoOfCTIUsers" Value="500"/>
+         <Properties Name="NoOfZohoMeetingSessions" Value="10"/>
+         <Properties Name="ZohoCrmIntegration" Value="true"/>
+         <Properties Name="NoOfBusinessUnits" Value="10"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="666-666-666"/>
+         <Properties Name="LicenseID" Value="666-666-666"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+		 <Properties Name="SecondaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="GenerationDate" Value="2024-01-01"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>10U10UTW0Wv4XdNj84XRvNvDmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXGNjYvoGvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8Rp666U666U666djvsNvY8l666U666U666djRvmj4sKPsL8X4vdvsNvY8l01s48NwssvN8sKbFOjnvKR4Nj84XRiv4NjmRPjCju01sNj8ssvoiN84vvMjCjuFOjn005sRvswjtPFOjnvKR4pPoGv98LXYjl005s4NKjYYAFOjn005sRvswFOjnRv4NvP4RjHHKoMgOvs8RHRv4Ng0I5sKLpsRv4NvP4RjHHKosvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>

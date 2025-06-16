@@ -7,7 +7,7 @@
       </UserInfo>
    </Users>
    <LicenseeDetails ID="ID">
-      <Product Category="OEM" Name="AdventNet ManageEngine SupportCenter Plus" Type="Enterprise" Version="5.0"/>
+      <Product Category="OEM" Name="AdventNet ManageEngine SupportCenter Plus" Type="Enterprise" Version="14.9"/>
       <Component Name="SupportCenter">
          <Properties Name="NoOfUsers" Value="500"/>
          <Properties Name="NoOfAccounts" Value="500"/>
